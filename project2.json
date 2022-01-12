@@ -4,7 +4,7 @@
         "id": 100001,
         "firstName": "John",
         "lastName": "Smith",
-        "dob": new Date(1982,02,21,11,0,0,0),
+        "dob": "1982-02-21T0:0:0.0+10:00",
         "contactPhone": 0412345678,
         "contactEmail": "jsmith@personalemail.com",
         "emergencyContact": "Adam Smith",
@@ -16,7 +16,7 @@
             "image": "https://via.placeholder.com/600x400",
             "title": "Article Title",
             "author": "John Smith",
-            "published": new Date(2022,01,25,23,0,0,0),
+            "published": "2022-01-25T12:00:00.00+10:00",
             "printDate": "",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
@@ -24,7 +24,7 @@
             "image": "https://via.placeholder.com/600x400",
             "title": "Article Title",
             "author": "John Smith",
-            "published": new Date(2022,01,26,23,0,0,0),
+            "published": "2022-01-26T12:00:00.00+10:00",
             "printDate": "",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
@@ -32,7 +32,7 @@
             "image": "https://via.placeholder.com/600x400",
             "title": "Article Title",
             "author": "John Smith",
-            "published": new Date(2022,01,27,23,0,0,0),
+            "published": "2022-01-27T12:00:00.00+10:00",
             "printDate": "",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
@@ -40,7 +40,7 @@
             "image": "https://via.placeholder.com/600x400",
             "title": "Article Title",
             "author": "John Smith",
-            "published": new Date(2022,01,28,23,0,0,0),
+            "published": "2022-01-28T12:00:00.00+10:00",
             "printDate": "",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
@@ -48,7 +48,7 @@
             "image": "https://via.placeholder.com/600x400",
             "title": "Article Title",
             "author": "John Smith",
-            "published": new Date(2022,01,29,23,0,0,0),
+            "published": "2022-01-29T12:00:00.00+10:00",
             "printDate": "",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
@@ -56,7 +56,7 @@
             "image": "https://via.placeholder.com/600x400",
             "title": "Article Title",
             "author": "John Smith",
-            "published": new Date(2022,01,30,23,0,0,0),
+            "published": "2022-01-30T12:00:00.00+10:00",
             "printDate": "",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
@@ -64,7 +64,7 @@
             "image": "https://via.placeholder.com/600x400",
             "title": "Article Title",
             "author": "John Smith",
-            "published": new Date(2022,01,31,23,0,0,0),
+            "published": "2022-01-31T12:00:00.00+10:00",
             "printDate": "",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
@@ -72,9 +72,9 @@
             "image": "https://via.placeholder.com/600x400",
             "title": "TeamSite is live!",
             "author": "John Smith",
-            "published": new Date(2022,02,01,23,0,0,0),
+            "published": "2022,02,01T12:00:00.00+10:00",
             "printDate": "",
-            "text": "The moment we"ve all been waiting for is here! After much anticipation and hard work, our new company TeamSite is active!!! If you have not already been trained in its use, please see your line manager for assistance."
+            "text": "The moment we've all been waiting for is here! After much anticipation and hard work, our new company TeamSite is active!!! If you have not already been trained in its use, please see your line manager for assistance."
         }
     ]
 }
