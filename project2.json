@@ -5,10 +5,10 @@
         "firstName": "John",
         "lastName": "Smith",
         "dob": "1982-02-21T0:0:0.0+10:00",
-        "contactPhone": 0412345678,
+        "contactPhone": "0412345678",
         "contactEmail": "jsmith@personalemail.com",
         "emergencyContact": "Adam Smith",
-        "emergencyPhone": 0498765432
+        "emergencyPhone": "0498765432"
         }
     ],
     "newsArticles": [
