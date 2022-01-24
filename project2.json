@@ -136,6 +136,7 @@
     ],
     "modules": [
         {
+        "id": 0,
         "name": "Safety Module",
         "image": "https://via.placeholder.com/200x200",
         "description": "This module will focus on teaching you about basic safety principles, and should be completed by all employees.",
@@ -172,6 +173,7 @@
         ]
         },
         {
+        "id": 1,
         "name": "Skill Module",
         "image": "https://via.placeholder.com/200x200",
         "description": "This module will focus on teaching you about a skill, including relevant safety. All employees perform relevant roles should complete this.",
@@ -208,6 +210,7 @@
         ]
         },
         {
+        "id": 2,
         "name": "Compliance Module",
         "image": "https://via.placeholder.com/200x200",
         "description": "This module will focus on teaching you how to make sure our operations are compliant. This module should be completed by relevant managers.",
