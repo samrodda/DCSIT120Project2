@@ -152,7 +152,8 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A"
+            "correct": "A",
+            "required": 100
             },
             {
             "question": "Q1",
@@ -160,7 +161,8 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A"
+            "correct": "A",
+            "required": 100
             },
             {
             "question": "Q1",
@@ -168,7 +170,8 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A"
+            "correct": "A",
+            "required": 100
             }
         ]
         },
@@ -189,7 +192,8 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A"
+            "correct": "A",
+            "required": 100
             },
             {
             "question": "Q1",
@@ -197,7 +201,8 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A"
+            "correct": "A",
+            "required": 100
             },
             {
             "question": "Q1",
@@ -205,7 +210,8 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A"
+            "correct": "A",
+            "required": 100
             }
         ]
         },
@@ -226,7 +232,8 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A"
+            "correct": "A",
+            "required": 100
             },
             {
             "question": "Q1",
@@ -234,7 +241,8 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A"
+            "correct": "A",
+            "required": 100
             },
             {
             "question": "Q1",
@@ -242,7 +250,8 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A"
+            "correct": "A",
+            "required": 100
             }
         ]
         }
