@@ -138,11 +138,11 @@
         {
         "id": 0,
         "name": "Safety Module",
-        "image": "https://via.placeholder.com/200x200",
+        "image": "https://samrodda.github.io/DCSIT120Project2/Safety00.png",
         "description": "This module will focus on teaching you about basic safety principles, and should be completed by all employees.",
         "required": 100,
         "learn": [
-            "https://via.placeholder.com/600x600",
+            "https://samrodda.github.io/DCSIT120Project2/Safety01.png",
             "https://via.placeholder.com/700x700",
             "https://via.placeholder.com/800x800"
         ],
@@ -176,7 +176,7 @@
         {
         "id": 1,
         "name": "Skill Module",
-        "image": "https://via.placeholder.com/200x200",
+        "image": "https://samrodda.github.io/DCSIT120Project2/Skill00.png",
         "description": "This module will focus on teaching you about a skill, including relevant safety. All employees perform relevant roles should complete this.",
         "required": 100,
         "learn": [
@@ -214,7 +214,7 @@
         {
         "id": 2,
         "name": "Compliance Module",
-        "image": "https://via.placeholder.com/200x200",
+        "image": "https://samrodda.github.io/DCSIT120Project2/Compliance00.png",
         "description": "This module will focus on teaching you how to make sure our operations are compliant. This module should be completed by relevant managers.",
         "required": 100,
         "learn": [
