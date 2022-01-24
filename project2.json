@@ -148,27 +148,27 @@
         ],
         "assess": [
             {
-            "question": "Q1",
-            "optionA": "right",
-            "optionB": "wrong",
-            "optionC": "wrong",
-            "optionD": "wrong",
-            "correct": "A"
+            "question": "Q1. What is the best way to lift a box?",
+            "optionA": "Bend down directly to it and put your back into it.",
+            "optionB": "Bend at your knees and keep your back straight.",
+            "optionC": "Find someone else to pick it up for you.",
+            "optionD": "Use a pallet jack to raise it to shoulder height.",
+            "correct": "B"
             },
             {
-            "question": "Q2",
-            "optionA": "right",
-            "optionB": "wrong",
-            "optionC": "wrong",
-            "optionD": "wrong",
-            "correct": "A"
+            "question": "Q2. What should you do if you find a spill on the floor?",
+            "optionA": "Yell loudly until a cleaner comes to clean it. Its their job.",
+            "optionB": "Put a wet floor sign over it. Someone will get to it eventually.",
+            "optionC": "Clean it up straight away, so nobody slips.",
+            "optionD": "Leave it, your other tasks are more important.",
+            "correct": "C"
             },
             {
-            "question": "Q3",
-            "optionA": "right",
-            "optionB": "wrong",
-            "optionC": "wrong",
-            "optionD": "wrong",
+            "question": "Q3. What should you do if your unsure how to do something safely?",
+            "optionA": "Ask your line manager or a coworker to help you.",
+            "optionB": "Just try your best; everybody is already busy.",
+            "optionC": "Go on your break and wait for someone else to do it.",
+            "optionD": "Quit the job, if you don't know the answer you shouldn't be working there.",
             "correct": "A"
             }
         ]
