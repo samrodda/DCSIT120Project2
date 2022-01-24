@@ -140,6 +140,7 @@
         "name": "Safety Module",
         "image": "https://via.placeholder.com/200x200",
         "description": "This module will focus on teaching you about basic safety principles, and should be completed by all employees.",
+        "required": 100,
         "learn": [
             "https://via.placeholder.com/600x600",
             "https://via.placeholder.com/700x700",
@@ -152,8 +153,7 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A",
-            "required": 100
+            "correct": "A"
             },
             {
             "question": "Q1",
@@ -161,8 +161,7 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A",
-            "required": 100
+            "correct": "A"
             },
             {
             "question": "Q1",
@@ -170,8 +169,7 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A",
-            "required": 100
+            "correct": "A"
             }
         ]
         },
@@ -180,6 +178,7 @@
         "name": "Skill Module",
         "image": "https://via.placeholder.com/200x200",
         "description": "This module will focus on teaching you about a skill, including relevant safety. All employees perform relevant roles should complete this.",
+        "required": 100,
         "learn": [
             "https://via.placeholder.com/600x600",
             "https://via.placeholder.com/700x700",
@@ -192,8 +191,7 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A",
-            "required": 100
+            "correct": "A"
             },
             {
             "question": "Q1",
@@ -201,8 +199,7 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A",
-            "required": 100
+            "correct": "A"
             },
             {
             "question": "Q1",
@@ -210,8 +207,7 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A",
-            "required": 100
+            "correct": "A"
             }
         ]
         },
@@ -220,6 +216,7 @@
         "name": "Compliance Module",
         "image": "https://via.placeholder.com/200x200",
         "description": "This module will focus on teaching you how to make sure our operations are compliant. This module should be completed by relevant managers.",
+        "required": 100,
         "learn": [
             "https://via.placeholder.com/600x600",
             "https://via.placeholder.com/700x700",
@@ -232,8 +229,7 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A",
-            "required": 100
+            "correct": "A"
             },
             {
             "question": "Q1",
@@ -241,8 +237,7 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A",
-            "required": 100
+            "correct": "A"
             },
             {
             "question": "Q1",
@@ -250,8 +245,7 @@
             "optionB": "wrong",
             "optionC": "wrong",
             "optionD": "wrong",
-            "correct": "A",
-            "required": 100
+            "correct": "A"
             }
         ]
         }
