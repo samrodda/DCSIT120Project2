@@ -8,7 +8,24 @@
         "contactPhone": "0412345678",
         "contactEmail": "jsmith@personalemail.com",
         "emergencyContact": "Adam Smith",
-        "emergencyPhone": "0498765432"
+        "emergencyPhone": "0498765432",
+        "results": [
+            {
+            "dateComplete": "",
+            "score": "",
+            "competent": "No"
+            },
+            {
+            "dateComplete": "",
+            "score": "",
+            "competent": "No"
+            },
+            {
+            "dateComplete": "",
+            "score": "",
+            "competent": "No"
+            }
+        ]
         }
     ],
     "newsArticles": [
@@ -115,6 +132,116 @@
             "published": "2022-01-31T12:00:00+10:00",
             "printDate": "",
             "text": "The moment we've all been waiting for is here! After much anticipation and hard work, our new company TeamSite is active!!! If you have not already been trained in its use, please see your line manager for assistance."
+        }
+    ],
+    "modules": [
+        {
+        name: "Safety Module",
+        image: "https://via.placeholder.com/200x200",
+        description: "This module will focus on teaching you about basic safety principles, and should be completed by all employees.",
+        learn: [
+            "https://via.placeholder.com/600x600",
+            "https://via.placeholder.com/700x700",
+            "https://via.placeholder.com/800x800"
+        ],
+        assess: [
+            {
+            question: "Q1",
+            optionA: "right",
+            optionB: "wrong",
+            optionC: "wrong",
+            optionD: "wrong",
+            correct: "A"
+            },
+            {
+            question: "Q2",
+            optionA: "right",
+            optionB: "wrong",
+            optionC: "wrong",
+            optionD: "wrong",
+            correct: "A"
+            },
+            {
+            question: "Q3",
+            optionA: "right",
+            optionB: "wrong",
+            optionC: "wrong",
+            optionD: "wrong",
+            correct: "A"
+            }
+        ]
+        },
+        {
+        name: "Skill Module",
+        image: "https://via.placeholder.com/200x200",
+        description: "This module will focus on teaching you about a skill, including relevant safety. All employees perform relevant roles should complete this.",
+        learn: [
+            "https://via.placeholder.com/600x600",
+            "https://via.placeholder.com/700x700",
+            "https://via.placeholder.com/800x800"
+        ],
+        assess: [
+            {
+            question: "Q1",
+            optionA: "right",
+            optionB: "wrong",
+            optionC: "wrong",
+            optionD: "wrong",
+            correct: "A"
+            },
+            {
+            question: "Q2",
+            optionA: "right",
+            optionB: "wrong",
+            optionC: "wrong",
+            optionD: "wrong",
+            correct: "A"
+            },
+            {
+            question: "Q3",
+            optionA: "right",
+            optionB: "wrong",
+            optionC: "wrong",
+            optionD: "wrong",
+            correct: "A"
+            }
+        ]
+        },
+        {
+        name: "Compliance Module",
+        image: "https://via.placeholder.com/200x200",
+        description: "This module will focus on teaching you how to make sure our operations are compliant. This module should be completed by relevant managers.",
+        learn: [
+            "https://via.placeholder.com/600x600",
+            "https://via.placeholder.com/700x700",
+            "https://via.placeholder.com/800x800"
+        ],
+        assess: [
+            {
+            question: "Q1",
+            optionA: "right",
+            optionB: "wrong",
+            optionC: "wrong",
+            optionD: "wrong",
+            correct: "A"
+            },
+            {
+            question: "Q2",
+            optionA: "right",
+            optionB: "wrong",
+            optionC: "wrong",
+            optionD: "wrong",
+            correct: "A"
+            },
+            {
+            question: "Q3",
+            optionA: "right",
+            optionB: "wrong",
+            optionC: "wrong",
+            optionD: "wrong",
+            correct: "A"
+            }
+        ]
         }
     ]
 }
