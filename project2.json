@@ -186,27 +186,27 @@
         ],
         "assess": [
             {
-            "question": "Q1",
-            "optionA": "right",
-            "optionB": "wrong",
-            "optionC": "wrong",
-            "optionD": "wrong",
-            "correct": "A"
+            "question": "Q1. How do you prepare the fruit?",
+            "optionA": "Smash it on the floor and moosh it more with your foot.",
+            "optionB": "Grate it for an extra zesty flavour.",
+            "optionC": "Only peel it. Whole fruit retains more flavour.",
+            "optionD": "Chop it up into roughly even pieces.",
+            "correct": "D"
             },
             {
-            "question": "Q2",
-            "optionA": "right",
-            "optionB": "wrong",
-            "optionC": "wrong",
-            "optionD": "wrong",
-            "correct": "A"
+            "question": "Q2. What device do we use to make the smoothies?",
+            "optionA": "A juicer",
+            "optionB": "A blender",
+            "optionC": "A microwave",
+            "optionD": "A slow cooker",
+            "correct": "B"
             },
             {
-            "question": "Q3",
-            "optionA": "right",
-            "optionB": "wrong",
-            "optionC": "wrong",
-            "optionD": "wrong",
+            "question": "Q3. How do we serve the smoothie?",
+            "optionA": "In a disposable cup.",
+            "optionB": "In a bowl.",
+            "optionC": "In a bag.",
+            "optionD": "Pour straight into the customers mouth.",
             "correct": "A"
             }
         ]
@@ -224,27 +224,27 @@
         ],
         "assess": [
             {
-            "question": "Q1",
-            "optionA": "right",
-            "optionB": "wrong",
-            "optionC": "wrong",
-            "optionD": "wrong",
-            "correct": "A"
+            "question": "Q1. How do we ensure hot food is hot enough?",
+            "optionA": "Hold it to our skin - if it burns its ready to go.",
+            "optionB": "Use a thermometer to make sure it is above 60°C.",
+            "optionC": "Use a thermometer to make sure it is below 75°C.",
+            "optionD": "Leave an egg on it for 10 minutes. If it hard boils, its hot enough!",
+            "correct": "B"
             },
             {
-            "question": "Q2",
-            "optionA": "right",
-            "optionB": "wrong",
-            "optionC": "wrong",
-            "optionD": "wrong",
-            "correct": "A"
+            "question": "Q2. What tempurature should refrigerated food be stored at?",
+            "optionA": "Room tempurature with the air conditioner on.",
+            "optionB": "Below 10°C",
+            "optionC": "Below 5°C.",
+            "optionD": "Below -5°C.",
+            "correct": "C"
             },
             {
-            "question": "Q3",
-            "optionA": "right",
-            "optionB": "wrong",
-            "optionC": "wrong",
-            "optionD": "wrong",
+            "question": "Q3. Which of the following is a common allergen?",
+            "optionA": "Eggs",
+            "optionB": "Beef",
+            "optionC": "Ants",
+            "optionD": "Fruit",
             "correct": "A"
             }
         ]
