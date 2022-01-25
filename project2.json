@@ -30,7 +30,7 @@
     ],
     "newsArticles": [
         {
-            "image": "https://via.placeholder.com/600x400",
+            "image": "https://samrodda.github.io/DCSIT120Project2/xmas01.png",
             "title": "First day of Christmas!",
             "author": "John Smith",
             "published": "2021-12-25T12:00:00+10:00",
@@ -38,7 +38,7 @@
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
         {
-            "image": "https://via.placeholder.com/600x400",
+            "image": "https://samrodda.github.io/DCSIT120Project2/xmas02.png",
             "title": "Second day of Christmas!",
             "author": "John Smith",
             "published": "2021-12-26T12:00:00+10:00",
@@ -46,7 +46,7 @@
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
         {
-            "image": "https://via.placeholder.com/600x400",
+            "image": "https://samrodda.github.io/DCSIT120Project2/xmas03.png",
             "title": "Third day of Christmas!",
             "author": "John Smith",
             "published": "2021-12-27T12:00:00+10:00",
@@ -54,7 +54,7 @@
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
         {
-            "image": "https://via.placeholder.com/600x400",
+            "image": "https://samrodda.github.io/DCSIT120Project2/xmas04.png",
             "title": "Fourth day of Christmas!",
             "author": "John Smith",
             "published": "2021-12-28T12:00:00+10:00",
@@ -62,7 +62,7 @@
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
         {
-            "image": "https://via.placeholder.com/600x400",
+            "image": "https://samrodda.github.io/DCSIT120Project2/xmas05.png",
             "title": "Fifth day of Christmas!",
             "author": "John Smith",
             "published": "2021-12-29T12:00:00+10:00",
@@ -70,7 +70,7 @@
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
         {
-            "image": "https://via.placeholder.com/600x400",
+            "image": "https://samrodda.github.io/DCSIT120Project2/xmas06.png",
             "title": "Sixth day of Christmas!",
             "author": "John Smith",
             "published": "2021-12-30T12:00:00+10:00",
@@ -78,7 +78,7 @@
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
         {
-            "image": "https://via.placeholder.com/600x400",
+            "image": "https://samrodda.github.io/DCSIT120Project2/xmas07.png",
             "title": "Seventh day of Christmas!",
             "author": "John Smith",
             "published": "2021-12-31T12:00:00+10:00",
@@ -86,7 +86,7 @@
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
         {
-            "image": "https://via.placeholder.com/600x400",
+            "image": "https://samrodda.github.io/DCSIT120Project2/xmas08.png",
             "title": "Eighth day of Christmas!",
             "author": "John Smith",
             "published": "2022-01-01T12:00:00+10:00",
@@ -94,7 +94,7 @@
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
         {
-            "image": "https://via.placeholder.com/600x400",
+            "image": "https://samrodda.github.io/DCSIT120Project2/xmas09.png",
             "title": "Ninth day of Christmas!",
             "author": "John Smith",
             "published": "2022-01-02T12:00:00+10:00",
@@ -102,7 +102,7 @@
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
         {
-            "image": "https://via.placeholder.com/600x400",
+            "image": "https://samrodda.github.io/DCSIT120Project2/xmas10.png",
             "title": "Tenth day of Christmas!",
             "author": "John Smith",
             "published": "2022-01-03T12:00:00+10:00",
@@ -110,7 +110,7 @@
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
         {
-            "image": "https://via.placeholder.com/600x400",
+            "image": ""https://samrodda.github.io/DCSIT120Project2/xmas11.png",
             "title": "Eleventh day of Christmas!",
             "author": "John Smith",
             "published": "2022-01-04T12:00:00+10:00",
@@ -118,7 +118,7 @@
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur ut sapien vitae rhoncus. Donec congue blandit sollicitudin. Praesent est neque, tincidunt ut ultrices sed, efficitur id purus."
         },
         {
-            "image": "https://via.placeholder.com/600x400",
+            "image": ""https://samrodda.github.io/DCSIT120Project2/xmas12.png",
             "title": "Twelvth day of Christmas!",
             "author": "John Smith",
             "published": "2022-01-05T12:00:00+10:00",
