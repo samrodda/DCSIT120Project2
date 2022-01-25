@@ -180,9 +180,9 @@
         "description": "This module will focus on teaching you about a skill, including relevant safety. All employees perform relevant roles should complete this.",
         "required": 100,
         "learn": [
-            "https://via.placeholder.com/600x600",
-            "https://via.placeholder.com/700x700",
-            "https://via.placeholder.com/800x800"
+            "https://samrodda.github.io/DCSIT120Project2/Skill01.png",
+            "https://samrodda.github.io/DCSIT120Project2/Skill02.png",
+            "https://samrodda.github.io/DCSIT120Project2/Skill03.png"
         ],
         "assess": [
             {
@@ -218,9 +218,9 @@
         "description": "This module will focus on teaching you how to make sure our operations are compliant. This module should be completed by relevant managers.",
         "required": 100,
         "learn": [
-            "https://via.placeholder.com/600x600",
-            "https://via.placeholder.com/700x700",
-            "https://via.placeholder.com/800x800"
+            "https://samrodda.github.io/DCSIT120Project2/Compliance01.png",
+            "https://samrodda.github.io/DCSIT120Project2/Compliance02.png",
+            "https://samrodda.github.io/DCSIT120Project2/Compliance03.png"
         ],
         "assess": [
             {
